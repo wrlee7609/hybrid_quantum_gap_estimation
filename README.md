@@ -1,4 +1,4 @@
-# hybrid_quantum_gap_estimation
+# Hybrid quantum gap estimation algorithm
 
 This is the Qiskit code used to generate data and figures in the paper 
 "A Compact Noise-Tolerant Algorithm for Unbiased Quantum Simulation Using Feynman's $i\eta$ Prescription"
