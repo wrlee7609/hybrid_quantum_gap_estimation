@@ -1,9 +1,5 @@
 # Hybrid quantum gap estimation algorithm
 
-This is the Qiskit code used to generate data and figures in the paper 
-"A Compact Noise-Tolerant Algorithm for Unbiased Quantum Simulation Using Feynman's $i\eta$ Prescription"
-by Woo-Ram Lee, Ryan Scott, and V. W. Scarola (https://arxiv.org/abs/2212.14039).
-
-An interesting user can run this code on the IBMQ device with a certain choice of backends 
-(Here we set to "ibmq_manila" by default).
-An example plot is provided at the end of this code.
+These are the Qiskit codes used to generate data and figures in the following papers: 
+(1) Woo-Ram Lee, Ryan Scott, and V. W. Scarola, Hybrid quantum-gap-estimation algorithm using a filtered time series, Phys. Rev. A 109, 052403 (2024).
+(2) Woo-Ram Lee, Nathan M. Myers, and V. W. Scarola, Fault tolerance embedded in a quantum-gap-estimation algorithm with trial-state optimization, arXiv:2405.10306.
